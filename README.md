@@ -36,7 +36,7 @@ Use o site para cadastrar um cliente e testar essa funcionalidade! :running:
 
 | Tela Principal do Site |
 |---|
-|![SN](https://user-images.githubusercontent.com/30197988/99558707-c61a8680-29a2-11eb-9676-5d4308ef2cc7.png)| 
+|![SiteClinica](https://user-images.githubusercontent.com/30197988/99673691-dc344f80-2a53-11eb-8e2a-009afde894f7.png)| 
 
 📃 Licensa
 
