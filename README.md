@@ -1,6 +1,6 @@
 # site-nutricional
 
-Site para Clinica Nutricional com features de busca automática de clientes de base de dados, autofiltro e adicionar novos clientes na base de dados.
+Site para Clinica Nutricional com features de busca automática de clientes de uma base de dados, autofiltro completo e botão específico adicionar novos clientes.
 
 :angel: Para Recrutadores !
 
