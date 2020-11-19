@@ -2,9 +2,8 @@
 
 Site para Clinica Nutricional com features de busca automática de clientes de uma base de dados, autofiltro completo e botão específico adicionar novos clientes.
 
-:angel: Para Recrutadores !
 
-Por favor acessem o link abaixo especialmente configurado para vocês, assim vocês tem mais uma opção disponível!
+Para acesso direto ao site clique no link abaixo;
 
 https://jromolina.github.io/site-nutricional/
 
